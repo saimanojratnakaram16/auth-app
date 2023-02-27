@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    background: rgb(213, 232, 236);
+    justify-content: end;
+    align-items: center;
+    padding: 0px 40px;
+    height: 80px;
+  }
+  .nav-elements {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
